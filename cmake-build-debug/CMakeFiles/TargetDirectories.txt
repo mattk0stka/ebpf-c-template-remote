@@ -1,0 +1,3 @@
+/Users/mk0stka/CLionProjects/ebpf-c-template-remote/cmake-build-debug/CMakeFiles/ebpf_c_template_remote.dir
+/Users/mk0stka/CLionProjects/ebpf-c-template-remote/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mk0stka/CLionProjects/ebpf-c-template-remote/cmake-build-debug/CMakeFiles/rebuild_cache.dir
